@@ -1,0 +1,29 @@
+WEBVTT - Harbor Lights Trailer
+
+NOTE Fictional trailer used for the demo.
+All names and lines are made up.
+
+STYLE
+::cue { color: #ffd479; }
+
+intro
+00:01.200 --> 00:00:04.000 position:10% align:start
+The fog rolled in the night
+the lighthouse went dark.
+
+00:00:04.800 --> 00:00:07.300
+<i>Somebody switched it off.</i>
+
+00:00:08.000 --> 00:00:10.500 line:85%
+<v Mara>Keeper, the boats are still out there!
+
+00:00:11.100 --> 00:00:13.900
+Then we light the harbor
+ourselves. Every lamp we have.
+
+00:00:14.600 --> 00:00:17.000
+One town. One night.
+
+00:00:18.000 --> 00:00:21.500 align:center
+HARBOR LIGHTS
+Coming soon.

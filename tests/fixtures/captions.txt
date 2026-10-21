@@ -1,0 +1,4 @@
+WEBVTT
+
+00:05.000 --> 00:07.000
+Detected from content.
